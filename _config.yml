@@ -3,5 +3,3 @@ markdown: kramdown
 
 #blogpost url format
 permalink: /blog/:year/:month/:day/:title
-
-theme: jekyll-theme-modernist
