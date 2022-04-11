@@ -1,1 +1,2 @@
+#Ignores the _site directory Jekyll automatically generates after each commit.
 _site/
