@@ -1,2 +1,5 @@
 name: nmehndir's site
 markdown: kramdown
+
+#blogpost url format
+permalink: /blog/:year/:month/:day/:title
