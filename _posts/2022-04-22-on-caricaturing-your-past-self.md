@@ -1,0 +1,18 @@
+---
+layout: post
+title: "On Caricaturing Your Past Self"
+date: 2022-04-22
+---
+I've noticed it's pretty common for people to aggressively bash their past selves, saying things like "I was such an idiot back then!" I think the **"back then"** part is what they really want to get across. "I was so bad back then! **[I'm so much better now!]"**
+
+This is something I struggle with. I find it hard to look back on my past self objectively. Part of this is probably just the standard kind of regret most people have, but I think most of it comes from it being *unbearable* to think that I've stagnated. If I'm *not* getting better, doesn't that mean I just wasted all that time? And knowing that I wasted time is extremely painful because I can't stop thinking about the counterfactual where I *hadn't* wasted that time--the counterfactual I'd never be able to catch up to. (Note: I don't endorse these emotions. Guilt makes me very unproductive, and this turns into a vicious cycle.)
+
+It's convenient to look back on Past-You as the epitome of every flaw imaginable. The alternative's terrifying: Past-You wasn't that different from Present-You, and you still need to work on the things that caused Past-You to fail. *Present-You is still on the same track as Past-You.*
+
+It's really hard to gauge progress when you keep telling yourself you started from negative infinity.
+
+I've been lifting weights for a while, but while I tracked my lifts in separate notes (for each day), I didn't tabulate them in a spreadsheet (kept procrastinating on this; should've made the system easier to stick with). I think it was somewhere around October or November of 2021, when I sat down and went through each individual note and put it into my spreadsheet, that I realized I'd been cycling my weights up to roughly the same max, failing, then dropping down because of "bad form" and repeating that cycle--for 3 *months*. On an emotional level, I'd been thinking I was getting much stronger and I was *certainly* doing much better than before, when I was so weak and incompetent.
+
+Probably a more relevant example: Across the journaling I've done over the past few years, there's a common trend of me making some declaration that I'd change from the terrible, unproductive person I was in the past. I'd look back on Past-Me as a drooling imbecile who just gorged himself on Nutella while playing Clash of Clans all the time while doing literally nothing while causing literally everything that's going wrong in my life and probably in the world too. ***After writing the previous sentence, I find it funny that my first instinct was to caricature More-Recent-Past-Me (the one that wrote the journal entries).*** Unlike weightlifting, I didn't have some epiphany after seeing numbers that contradicted my emotions. I'm actually not super sure what makes me so confident that this is a case of self-caricaturing; it just seems obvious now. I guess one concrete thing is that my journals have been pretty cyclical too. I'm not radically different from the past few iterations of me (though I really want to believe I am), so it follows that Past-Me was probably not a blubbering idiot, and I need to heavily correct for my bias against that version of me.
+
+I'm not sure what the solution is here. Tracking relevant metrics works for things like weightlifting, but what about something like how good I am at socializing? Or how productive I am? Or even something as seemingly concrete as how good I am at physics? Sure, maybe I could take a test on some regular interval or something like that--but I don't think interpolation would be accurate for measuring long-term trends. There's just so much noise. 
