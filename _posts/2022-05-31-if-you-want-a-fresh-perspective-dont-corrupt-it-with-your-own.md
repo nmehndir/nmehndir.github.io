@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "If you want a fresh perspective, don't corrupt it with your own."
-date: 2022-04-22
+date: 2022-05-31
 ---
 You write an essay. Upon reviewing your work, you feel uncertain about the quality of your prose in paragraphs 2 and 4 and also whether the examples you listed in paragraph 7 are strong enough. You ask your friend for feedback:
 
