@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Simulating Coinflips Using Random Words"
-date: 2022-04-22
+date: 2022-06-12
 ---
 I played a few games of Mafia on Friday. While reviewing gameplay with the narrator afterwards, he suggested that in situations where a player wants to randomly pick one of two options (e.g. one of two players to lynch or one of two players to kill), they could simulate a coinflip by picking a random English word, adding up the numbers the letters correspond to on an {‘a’:1 . . . ‘z’:26} scheme, then checking whether this number is even or odd.
 
